@@ -132,3 +132,30 @@ button:hover {
   font-weight: 900;
   font-size: 12px;
 }
+
+/* Call to action section */
+.cta {
+  margin: 7% 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background-color: #3882f6;
+  border: 1px solid #3882f6;
+  border-radius: 10px;
+}
+
+.cta h4 {
+  color: white;
+  font-size: 18px;
+}
+
+.cta p {
+  font-size: 12px;
+  color: #e5e7eb;
+}
+
+/* footer */
+footer {
+  text-align: center;
+}
