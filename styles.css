@@ -155,6 +155,11 @@ button:hover {
   color: #e5e7eb;
 }
 
+.cta-button {
+  border-color: #e5e7eb;
+  border-style: solid;
+}
+
 /* footer */
 footer {
   text-align: center;
